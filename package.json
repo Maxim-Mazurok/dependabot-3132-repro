@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.0",
+    "chalk": "^4.1.0",
     "lodash": "^4.17.21",
     "react": "^17.0.2"
   }
