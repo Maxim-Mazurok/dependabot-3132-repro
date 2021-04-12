@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "core-js": "^3.10.0",
+    "core-js": "^3.10.1",
     "request": "^2.88.0",
     "sass": "^1.32.8"
   }
